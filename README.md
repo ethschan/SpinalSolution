@@ -1,7 +1,6 @@
 # Spinal Solution: An electronic device to detect cerebrospinal fluid in the emergency room
 
-![Device Photo](./images/logo.png)
-
+![Device Photo](./images/device_picture_2.png)
 
 ## The Problem
 
