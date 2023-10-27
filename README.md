@@ -15,9 +15,8 @@ Cerebrospinal fluid (CSF) is a clear fluid that surrounds and protects the brain
 We present an innovative electronic device designed specifically to enhance the accuracy and precision of CSF leakage detection in ERs. The device functions by:
 
 1. Measuring the absorption and emittance of visible light from a unique chemical reaction.
-2. In this reaction, the protein lactoferrin — which models beta-2-transferrin found in CSF — reduces gold (III) chloride (AuCl3) to produce gold nanoparticle clusters that emit light.
-3. Harnessing computational capabilities, our device swiftly predicts the reaction's outcome.
-4. The end result? A rapid determination of CSF presence, all within a matter of minutes.
+2. Using this reaction, the protein lactoferrin — which models beta-2-transferrin found in CSF — reduces gold (III) chloride (AuCl3) to produce gold nanoparticle clusters that emit light.
+3. Leveraging computational power the device is able to rapidly detect CSF presence within a matter of minutes.
 
 More information about the project can be found [here](https://projectboard.world/ysc2021/project/spinal-solution-developing-an-electronic-device-to-detect-cerebrospinal-fluid-in-the-emergency-room).
 
