@@ -24,5 +24,8 @@ More information about the project can be found [here](https://projectboard.worl
 
 
 ## Photo Gallery
-![Device Photo 2](./images/device_picture_1.png)
 
+<p align="center">
+  <img src="./images/device_picture_1.png" alt="Device Photo 2">
+<i>Top-down view of device internals</i>
+</p>
