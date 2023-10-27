@@ -1,4 +1,4 @@
-# [Spinal Solution: An electronic device to detect cerebrospinal fluid in the emergency room](https://projectboard.world/ysc2021/project/spinal-solution-developing-an-electronic-device-to-detect-cerebrospinal-fluid-in-the-emergency-room)
+# Spinal Solution: An electronic device to detect cerebrospinal fluid in the emergency room
 ![Device Photo](./images/device_picture_2.png)
 ## Overview
 
@@ -12,6 +12,8 @@ We present an innovative electronic device designed specifically to enhance the 
 2. In this reaction, the protein lactoferrin — which models beta-2-transferrin found in CSF — reduces gold (III) chloride (AuCl3) to produce gold nanoparticle clusters that emit light.
 3. Harnessing computational capabilities, our device swiftly predicts the reaction's outcome.
 4. The end result? A rapid determination of CSF presence, all within a matter of minutes.
+
+More information about the project can be found [here](https://projectboard.world/ysc2021/project/spinal-solution-developing-an-electronic-device-to-detect-cerebrospinal-fluid-in-the-emergency-room).
 
 ## Circuit Diagram
 
