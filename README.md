@@ -21,7 +21,10 @@ More information about the project can be found [here](https://projectboard.worl
 
 ## Circuit Diagram
 
-
+<p align="center">
+  <img src="./images/circuit_digram.png" alt="Circuit Diagram">
+<i>Circuit and wiring Diagram</i>
+</p>
 
 ## Photo Gallery
 
