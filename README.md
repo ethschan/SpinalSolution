@@ -29,7 +29,7 @@ More information about the project can be found [here](https://projectboard.worl
 
 <p align="center">
   <img src="./images/circuit_diagram.png" alt="Circuit Diagram">
-  
+  <br>
   <i>Circuit schematic</i>
 </p>
 
