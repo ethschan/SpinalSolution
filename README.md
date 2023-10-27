@@ -29,8 +29,6 @@ More information about the project can be found [here](https://projectboard.worl
 
 <p align="center">
   <img src="./images/circuit_diagram.png" alt="Circuit Diagram">
-
-  
   <i>Circuit and wiring Diagram</i>
 </p>
 
