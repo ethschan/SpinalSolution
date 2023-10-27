@@ -1,4 +1,4 @@
-# Spinal Solution: An electronic device to detect cerebrospinal fluid in the emergency room
+# Spinal Solution: An electronic device to detect cerebrospinal fluid in the emergency room (2021)
 <p align="center">
   <img src="./images/device_picture_2.png" alt="Device Photo 1">
 <i>Spinal Solution CSF Detection Device</i>
