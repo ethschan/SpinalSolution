@@ -19,16 +19,16 @@ We present an innovative electronic device designed specifically to enhance the 
 
 More information about the project can be found [here](https://projectboard.world/ysc2021/project/spinal-solution-developing-an-electronic-device-to-detect-cerebrospinal-fluid-in-the-emergency-room).
 
-## Circuit Diagram
-
-<p align="center">
-  <img src="./images/circuit_diagram.png" alt="Circuit Diagram">
-<i>Circuit and wiring Diagram</i>
-</p>
-
-## Photo Gallery
+## Circuit and Wiring Diagrams
 
 <p align="center">
   <img src="./images/device_picture_1.png" alt="Device Photo 2">
 <i>Top-down view of device internals</i>
 </p>
+
+
+<p align="center">
+  <img src="./images/circuit_diagram.png" alt="Circuit Diagram">
+  <i>Circuit and wiring Diagram</i>
+</p>
+
