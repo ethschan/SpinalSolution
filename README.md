@@ -1,8 +1,9 @@
 # Spinal Solution: An electronic device to detect cerebrospinal fluid in the emergency room
-<figure>
+<p align="center">
   <img src="./images/device_picture_2.png" alt="Device Photo 1">
-  <figcaption>Spinal Solution CSF Detection Device</figcaption>
-</figure>
+<i>Spinal Solution CSF Detection Device</i>
+</p>
+
 ## Overview
 
 Cerebrospinal fluid (CSF) is a clear fluid that surrounds and protects the brain and spinal cord. In an emergency room setting, it is vital to decisively differentiate CSF leakage from blood and mucus in trauma patients to avoid life-threatening infections and strokes that can permanently damage the central nervous system. The current CSF detection method, the halo sign test, is a qualitative test that has high rates of false positives and negatives.
