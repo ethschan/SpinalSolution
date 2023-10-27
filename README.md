@@ -1,6 +1,6 @@
 # Spinal Solution: An electronic device to detect cerebrospinal fluid in the emergency room (2021)
 <p align="center">
-  <img src="./images/device_picture_2.png" alt="Device Photo 1">
+  <img src="./images/device_picture_2.png" alt="Device Photo">
 <i>Spinal Solution CSF Detection Device</i>
 </p>
 
@@ -22,13 +22,14 @@ More information about the project can be found [here](https://projectboard.worl
 ## Circuit and Wiring Diagrams
 
 <p align="center">
-  <img src="./images/device_picture_1.png" alt="Device Photo 2">
+  <img src="./images/device_picture_1.png" alt="Device Top-Down">
 <i>Top-down view of device internals</i>
 </p>
 
 
 <p align="center">
   <img src="./images/circuit_diagram.png" alt="Circuit Diagram">
-  <i>Circuit diagram</i>
+  
+  <i>Circuit schematic</i>
 </p>
 
