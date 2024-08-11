@@ -37,8 +37,12 @@ The CSF leakage detection device enhances the accuracy of CSF leakage detection 
     - Connect the **AS726X Spectral Sensor** to the Arduino via I2C: SDA to A4, SCL to A5.
     - Connect the **GUVA-S12SD UV Sensor** to the Arduino: Analog output to pin A2.
     - Connect the **OpenLog SD Card Module** to the Arduino: RX to pin 3, TX to pin 4, RST to pin 5.
-4. **Flash the Firmware**: Use the Arduino IDE to upload the chosen Arduino sketch to the Arduino Uno R3.
-5. **Build Calibration Curve and Calculation Model**: Test the device with known CSF samples to generate a calibration curve. Implement a calculation model based on your device's results.
+4. **Install Libaries**:
+    - Adafruit GFX
+    - Adafruit ST7735
+    - Sparkfun AS726X
+5. **Flash the Firmware**: Use the Arduino IDE to upload the chosen Arduino sketch to the Arduino Uno R3.
+6. **Build Calibration Curve and Calculation Model**: Test the device with known CSF samples to generate a calibration curve. Implement a calculation model based on your device's results.
 
 ## Files
 
