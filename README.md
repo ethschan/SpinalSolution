@@ -1,4 +1,4 @@
-# SpinalSolution: Detecting Cerebrospinal Fluid Leakage in the Emergency Room (2021)
+# SpinalSolution: A Cerebrospinal Fluid Leakage Detection Device for the Emergency Room (2021)
 
 <p align="center">
   <img src="./images/device_1.png" alt="Device Photo" width="45%">
