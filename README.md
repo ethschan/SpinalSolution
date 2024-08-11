@@ -1,4 +1,4 @@
-# Spinal Solution: Detecting Cerebrospinal Fluid Leakage in the Emergency Room (2021)
+# SpinalSolution: Detecting Cerebrospinal Fluid Leakage in the Emergency Room (2021)
 
 <p align="center">
   <img src="./images/device_1.png" alt="Device Photo" width="45%">
@@ -39,6 +39,16 @@ The CSF leakage detection device enhances the accuracy of CSF leakage detection 
     - Connect the **OpenLog SD Card Module** to the Arduino: RX to pin 3, TX to pin 4, RST to pin 5.
 4. **Flash the Firmware**: Use the Arduino IDE to upload the chosen Arduino sketch to the Arduino Uno R3.
 5. **Build Calibration Curve and Calculation Model**: Test the device with known CSF samples to generate a calibration curve. Implement a calculation model based on your device's results.
+
+## Files
+
+- `/models/case_body.stl`: 3D model for the body of the device's case.
+- `/models/case_lid.stl`: 3D model for the lid of the device's case.
+- `/models/cartridge_container.stl`: 3D model for cartridge containers.
+- `/models/cartridge_valve.stl`: 3D model for cartridge valves.
+- `/models/cuvette_holder.stl`: 3D model for cuvette holders compatible with the device.
+- `/src/SpinalSolution_Barebones.ino`: Arduino sketch for a barebones build.
+- `/src/SpinalSolution_Detailed.ino`: Arduino sketch for a more featured build with real-time graphing.
 
 ## Circuit Schematic
 
