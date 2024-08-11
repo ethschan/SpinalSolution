@@ -1,9 +1,10 @@
 # Spinal Solution: Detecting Cerebrospinal Fluid Leakage in the Emergency Room (2021)
 
 <p align="center">
-  <img src="./images/device.png" alt="Device Photo">
-  <i>CSF leakage detection device</i>
+  <img src="./images/device_1.png" alt="Device Photo" width="45%">
+  <img src="./images/device_2.png" alt="Device Internal View" width="45%">
 </p>
+<p align="center"><i>CSF leakage detection device</i></p>
 
 ## Overview
 
