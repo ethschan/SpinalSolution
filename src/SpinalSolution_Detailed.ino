@@ -1,5 +1,5 @@
 /*
- * File Name: SpinalSolution_Advanced.ino
+ * File Name: SpinalSolution_Detailed.ino
  * 
  * Description:
  * This Arduino sketch is designed to detect cerebrospinal fluid leakage using optical sensors.
