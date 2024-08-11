@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains models and code for SpinalSolution (2021), a Grade 11 personal project aimed at developing an electronic device to detect cerebrospinal fluid (CSF) leakage in emergency rooms. The project was motivated by the need to improve the accuracy and speed of CSF detection in trauma patients, where current methods like the halo sign test often yield unreliable results.
+This repository contains models and code for SpinalSolution, a Grade 11 (2021) personal project aimed at developing an electronic device to detect cerebrospinal fluid (CSF) leakage in emergency rooms. The project was motivated by the need to improve the accuracy and speed of CSF detection in trauma patients, where current methods like the halo sign test often yield unreliable results.
 
 More information about the project can be found [here](https://projectboard.world/ysc/project/spinal-solution-developing-an-electronic-device-to-detect-cerebrospinal-fluid-in-the-emergency-room).
 
